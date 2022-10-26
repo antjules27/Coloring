@@ -58,7 +58,7 @@
 ## Specials
 
 - BOLD = Coloring.BOLD | &b& 
-- UNDERLINE = Coloring.UNDERLINE | &u&
-- REVERSE = Coloring.REVERSE | &r&
-- RESET = Coloring.RESET |&d& 
+- UNDERLINE = Coloring.UNDERLINE | &u& 
+- REVERSE = Coloring.REVERSE | &r& 
+- RESET = Coloring.RESET |&d&
  
