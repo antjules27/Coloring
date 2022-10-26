@@ -55,9 +55,10 @@
  ```
    >$\color[rgb]{0.8,0,0}{Your}\color[rgb]{0.8,0,0}{Text}\color{white}{Your}\color{white}{second}\color{white}{Text}$
 
-# Specials
- BOLD = Coloring.BOLD | &b& 
- UNDERLINE = Coloring.UNDERLINE | &u&
- REVERSE = Coloring.REVERSE | &r&
- RESET = Coloring.RESET |&d& 
+## Specials
+
+- BOLD = Coloring.BOLD | &b& 
+- UNDERLINE = Coloring.UNDERLINE | &u&
+- REVERSE = Coloring.REVERSE | &r&
+- RESET = Coloring.RESET |&d& 
  
